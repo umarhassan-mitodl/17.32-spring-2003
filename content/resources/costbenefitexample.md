@@ -5,6 +5,8 @@ description: 'Economic tools in Environmental policy.  Related handout: Cost ben
 file: /courses/17-32-environmental-politics-and-policy-spring-2003/ecbcc3ac7ae77a191aedaa421436b753_costbenefitexample.xls
 file_size: 22016
 file_type: application/msword
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

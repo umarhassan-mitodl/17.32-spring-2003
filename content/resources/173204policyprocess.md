@@ -4,6 +4,8 @@ description: Understanding the Environmental Policy Process
 file: /courses/17-32-environmental-politics-and-policy-spring-2003/df8a4e613200c010dc1ecd9cd95049c5_173204policyprocess.pdf
 file_size: 385648
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

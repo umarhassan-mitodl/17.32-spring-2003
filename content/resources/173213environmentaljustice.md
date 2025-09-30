@@ -4,6 +4,8 @@ description: 'Environmental Justice: Is Environmental Policy Fair? Does it Matte
 file: /courses/17-32-environmental-politics-and-policy-spring-2003/138783f0dd0d56494fd643943c7dde38_173213environmentaljustice.pdf
 file_size: 144761
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

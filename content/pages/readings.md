@@ -3,6 +3,8 @@ content_type: page
 description: This section contains a list of citations for Texts, Required Readings,
   and Suggested Readings.
 draft: false
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Readings
 ocw_type: CourseSection
@@ -21,7 +23,7 @@ Anderson, Terry L., and Donald T. Leal. "Visions of the Environment and Rethinki
 
 Arrow, Kenneth, et al. "Economic Growth, Carrying Capacity, and the Environment." In *Debating the Earth*, pp. 35- 40.
 
-{{% resource_link "950ef5da-1f83-4292-93a0-875e70d068cc" "Arsenic Rule Benefits Analysis: An SAB Review" %}}.
+[Arsenic Rule Benefits Analysis: An SAB Review](http://www.epa.gov/sab/pdf/ec01008.pdf).
 
 Bartlett, Robert V. "Rationality and the Logic of the National Environmental Policy Act." In *Debating the Earth*, pp. 85-95.
 
@@ -31,11 +33,11 @@ Boehmer-Christiansen, Sonja, and Jim Skea. "Government, Politics and Environment
 
 Bullard, Robert D. "Anatomy of Environmental Racism." In *Debating the Earth*, pp. 471-492.
 
-Congressional Research Service. {{% resource_link "795f5fc6-2465-4d5c-b002-d9bd45822b89" "IB90122 - Automobile and Light Truck Fuel Economy: The CAFE Standards (PDF)" %}}. 2003.
+Congressional Research Service. [IB90122 - Automobile and Light Truck Fuel Economy: The CAFE Standards (PDF)](http://www.policyarchive.org/handle/10207/2827). 2003.
 
 Dodge, Jim. "Living By Life: Some Bioregional Theory and Practice." In *Debating the Earth*, pp. 365-373.
 
-Downs, Anthony. "Up and Down with Ecology: The Issue-Attention Cycle." Public Interest 28 (1972): 38-50. ({{% resource_link "8893b138-5747-4b0c-b066-1b987fe89e49" "PDF" %}})
+Downs, Anthony. "Up and Down with Ecology: The Issue-Attention Cycle." Public Interest 28 (1972): 38-50. ([PDF](http://sciencepolicy.colorado.edu/students/envs_5720/downs_1972.pdf))
 
 Easterbrook, Gregg. "The Ecorealist Manifesto." In *Debating the Earth*, pp. 66-69.
 
@@ -45,7 +47,7 @@ Ehrlich, Paul, and Anne Ehrlich. "Wise Use and Anti-Environmental Science." In *
 
 Farrow, Scott, and Michael Toman. "Using Cost-Benefit Analysis to Improve Environmental Regulations." *Environment* 41, 2 (1999): 12-15, 33-37. Responses to Farrow and Toman by George Eads, *Environment* 41, 4 (1999): 4; Lester Lave, *Environment* 41, 4 (1999): 4; Farrow, and Toman, *Environment* 41, 4 (1999): 45.
 
-Federal District Court Case: {{% resource_link "8af30d14-19a7-4c37-ab28-b5e376eae4f6" "United States v Holland (No. 73-623 M.D. Fla. March 27, 1974.)" %}}
+Federal District Court Case: [United States v Holland (No. 73-623 M.D. Fla. March 27, 1974.)](http://www.elr.info/index.cfm)
 
 First National People of Color Environmental Leadership Summit. "Principles of Environmental Justice." In *Debating the Earth*, pp.469-470.
 
@@ -63,11 +65,11 @@ Hardin, Garrett. "The Tragedy of the Commons." In *Debating the Earth*, pp. 23-3
 
 Krauss, Celene. "Women of Color on the Front Line." In *Debating the Earth*, pp. 493-503.
 
-Legislation Link: {{% resource_link "dccbf978-1eff-4232-a266-ec1033cc2cb7" "Clean Air Act." %}}
+Legislation Link: [Clean Air Act.](http://www.epa.gov/air/caa/text.html)
 
-Legislation Link: {{% resource_link "3c91c83f-a964-4ef4-8120-0beed692fdd2" "Clean Water Act." %}}
+Legislation Link: [Clean Water Act.](http://www2.epa.gov/laws-regulations/summary-clean-water-act)
 
-Legislation Link: {{% resource_link "f00a1c2f-a1fe-4fed-9693-8d043ec1700c" "Endangered Species Act." %}}
+Legislation Link: [Endangered Species Act.](https://www.fws.gov/endangered/laws-policies/)
 
 Mann, Charles, and Mark Plummer. "The Awful Beast is Back." In *Noah's Choice*. New York: Knopf, 1995, pp. 147-175.
 
@@ -88,24 +90,24 @@ Pinchot, Gifford. "Principles of Conservation" (1910). In *Sources: Notable Sele
 Putnam, Susan W., and Jonathan Baert Wiener. "Seeking Safe Drinking Water." Chap. 7 in *Risk vs. Risk.* Edited by John D. Graham and Jonathan Baert Wiener. Cambridge, MA: Harvard University Press, 1995, pp. 124-148.
 
 Redefining Progress Sustainability Program.    
-{{% resource_link "dbfa48dd-2af8-4946-b954-0d4dd37c4321" "http://rprogress.org/sustainable_economics/about_sustainable_economics.htm" %}}    
+[http://rprogress.org/sustainable_economics/about_sustainable_economics.htm](http://rprogress.org/sustainable_economics/about_sustainable_economics.htm)    
 Explore the concept of "ecological footprints" and calculate your own.
 
-Sabel, Charles, et al. {{% resource_link "ccdc9098-2e35-40ec-aa30-83616275e172" "http://new.bostonreview.net/BR24.5/contents.html" %}}.
+Sabel, Charles, et al. [http://new.bostonreview.net/BR24.5/contents.html](http://new.bostonreview.net/BR24.5/contents.html).
 
 Schmandt, Jurgen. "Regulation and Science." *Science, Technology, and Human Values* 9, 1 (Winter 1984): 23-39.
 
-Sierra Club. {{% resource_link "5c4ce3bb-b014-4b66-b972-c82220be1543" "Sprawl: The Dark Side of the American Dream." %}} 1998. 
+Sierra Club. [Sprawl: The Dark Side of the American Dream.](http://www.sierraclub.org/sprawl/report98/) 1998. 
 
 Simon, Julian L., and Herman Kahn. "Introduction to the Resourceful Earth." In *Debating the Earth*, pp. 43-65.
 
 Supreme Court Case: Solid Waste Agency of Northern Cook County, Petitioner v. United States Army Corps of Engineers, et al. (No. 99-1178, January 9, 2001.) ({{% resource_link 3734fa9c-3299-e79d-46c9-a58381cb13dd "PDF" %}})
 
-Supreme Court Case: {{% resource_link "8af30d14-19a7-4c37-ab28-b5e376eae4f6" "TVA v. Hill." %}} (No. 76-1701, June 15, 1978.)
+Supreme Court Case: [TVA v. Hill.](http://www.elr.info/index.cfm) (No. 76-1701, June 15, 1978.)
 
-Supreme Court Case: {{% resource_link "8af30d14-19a7-4c37-ab28-b5e376eae4f6" "United States v Riverside Bayview Homes" %}}. (No. 84-703, December 4, 1985.)
+Supreme Court Case: [United States v Riverside Bayview Homes](http://www.elr.info/index.cfm). (No. 84-703, December 4, 1985.)
 
-Supreme Court Case: {{% resource_link "e87cf673-39e5-4852-b519-bc878b950691" "Babbit vs. Sweethome" %}}. (94-859, June 29, 1995.)
+Supreme Court Case: [Babbit vs. Sweethome](http://www.law.cornell.edu/supct/html/94-859.ZO.html). (94-859, June 29, 1995.)
 
 Supreme Court Case: Palazzolo v. Rhode Island, et al. Certiorari to the Supreme Court of Rhode Island (No.99-2047, June 28, 2001.) ({{% resource_link 408c80b1-8f1c-bacc-4633-88fd14362fc7 "PDF" %}})
 
@@ -140,7 +142,7 @@ Gore, Al. "A Global Marshall Plan." In *Debating the Earth*, pp. 319-326.
 
 Greve, Michael, and Fred Smith. *Environmental Politics: Public Costs, Private Rewards*. New York: Praeger, 1992, Chap. 2, 4 and 5.
 
-Harrison, Kathyrn. "{{% resource_link "9620738c-f6c8-4215-a2f1-14bcc0e7f681" "Talking with the Donkey: Cooperative Approaches to Environmental Protection" %}}." *Journal of Industrial Ecology* 2, 3 (1999): 51-72./p>
+Harrison, Kathyrn. "[Talking with the Donkey: Cooperative Approaches to Environmental Protection](https://onlinelibrary.wiley.com/doi/abs/10.1162/jiec.1998.2.3.51)." *Journal of Industrial Ecology* 2, 3 (1999): 51-72./p>
 
 Kellert, Stephen. *The Value of Life*. Washington D.C.: Island Press, 1996, Chap. 2 and 3, pp. 9-63.
 
@@ -167,7 +169,7 @@ A strong critique of Hardin's thesis.
 
 Paehlke, Robert. "Environmental Values for a Sustainable Society." In *Debating the Earth*, pp. 147-161.
 
-Population Action International. {{% resource_link "63b15617-352e-49df-9fbe-7565aaf2df33" "People in Balance." %}} 2000.    
+Population Action International. [People in Balance.](https://toolkits.knowledgesuccess.org/sites/default/files/an_update-people_in_the_balance_-_population_and_natural_resources.pdf) 2000.    
 An interesting summary of the population-environment problem looking at water, forests, agriculture and pollution. Useful data and graphics. \[Click the title to jump to the web page for the full text.\]
 
 Portney, Paul R. "The Evolution of Federal Regulation." In *Public Policies for Environmental Protection.* Edited by Paul R. Portney. Washington D.C.: Resources for the Future, 1990, pp. 7-26.

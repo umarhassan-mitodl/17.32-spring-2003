@@ -4,6 +4,8 @@ description: Global Environmental Problems
 file: /courses/17-32-environmental-politics-and-policy-spring-2003/ad2ac44bab9b04b2bd3dfd3f77b83a28_173219globalenvironmentalproblems.pdf
 file_size: 190286
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

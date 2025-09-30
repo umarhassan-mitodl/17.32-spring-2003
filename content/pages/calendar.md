@@ -1,6 +1,8 @@
 ---
 content_type: page
 description: ''
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Calendar
@@ -125,7 +127,7 @@ Ehrlich, and Ehrlich. "Wise Use and Anti-Environmental Science."
 
 Switzer. _Environmental Politics_. Pp. 273-294.  
    
-Explore the concept of "ecological footprints" and calculate your own. {{% resource_link "2f78d126-dffc-4b9c-88c3-5c66924b2422" "http://www.rprogress.org/" %}}
+Explore the concept of "ecological footprints" and calculate your own. [http://www.rprogress.org/](http://www.rprogress.org/)
 
 Recommended Reading:  
    
@@ -135,7 +137,7 @@ This is an interesting critique of the "Tragedy of the Commons" thesis and sugge
 Ostrom, Elenor. _Governing the Commons_.   
 A strong critique of Hardin's thesis.  
    
-Population Action International. {{% resource_link "5550faae-8e16-43e4-a027-8f11fdc7437d" "People in Balance" %}}.  
+Population Action International. [People in Balance](https://pai.org/data-and-maps/people-in-the-balance/).  
 An interesting summary of the population-environment problem looking at water, forests, agriculture and pollution. Useful data and graphics. \[Click the title to jump to the web page for the full text.\]  
   
 Easterbrook, Gregg. _A Moment on Earth_.
@@ -224,7 +226,7 @@ Bartlett. "Rationality and the Logic of the National Environmental Policy Act."
 
 Switzer. _Environmental Politics_. Pp. 189-212, 311-316.
 
-Legislation Link: {{% resource_link "bdff13c9-f991-43c8-a77f-a0b7f99b1e21" "Clean Air Act." %}}
+Legislation Link: [Clean Air Act.](https://www.epa.gov/laws-regulations/summary-clean-air-act)
 
 Recommended Reading:
 
@@ -268,7 +270,7 @@ Switzer. _Environmental Politics_. Pp. 159-188.
 
 Greve, Michael. "Private Enforcement, Private Rewards: How Environmental Citizen Suits Became an Entitlement Program."
 
-Legislation Link: {{% resource_link "3c91c83f-a964-4ef4-8120-0beed692fdd2" "Clean Water Act." %}}
+Legislation Link: [Clean Water Act.](http://www2.epa.gov/laws-regulations/summary-clean-water-act)
 
 Recommended Reading:
 
@@ -320,9 +322,9 @@ This class explores how the reach of a law can expand beyond what its original c
 
 Required Reading:
 
-Federal District Court Case: {{% resource_link "8af30d14-19a7-4c37-ab28-b5e376eae4f6" "United States v Holland (No. 73-623 (M.D. Fla. March 27, 1974.)" %}}
+Federal District Court Case: [United States v Holland (No. 73-623 (M.D. Fla. March 27, 1974.)](http://www.elr.info/index.cfm)
 
-Supreme Court Case: {{% resource_link "8af30d14-19a7-4c37-ab28-b5e376eae4f6" "United States v Riverside Bayview Homes (No. 84-703, December 4, 1985.)" %}}
+Supreme Court Case: [United States v Riverside Bayview Homes (No. 84-703, December 4, 1985.)](http://www.elr.info/index.cfm)
 
 Supreme Court Case: Solid Waste Agency of Northern Cook County, Petitioner v. United States Army Corps of Engineers, et al. (No. 99-1178, January 9, 2001.) ({{% resource_link 3734fa9c-3299-e79d-46c9-a58381cb13dd "PDF" %}})
 
@@ -364,9 +366,9 @@ Wilson, E. O. "The Current State of Biological Diversity."
 
 Mann, Charles, and Plummer. "The Awful Beast is Back."
 
-Supreme Court Case: {{% resource_link "8af30d14-19a7-4c37-ab28-b5e376eae4f6" "TVA v. Hill." %}} (No. 76-1701, June 15, 1978.)
+Supreme Court Case: [TVA v. Hill.](http://www.elr.info/index.cfm) (No. 76-1701, June 15, 1978.)
 
-Legislation Link: {{% resource_link "49ba5149-cef6-4f0a-a37e-6891f101ce84" "Endangered Species Act." %}}
+Legislation Link: [Endangered Species Act.](https://www.law.cornell.edu/uscode/text/16/chapter-35)
 
 Recommended Reading:
 
@@ -406,7 +408,7 @@ Layzer. "Love Canal: Hazardous Wastes and the Politics of Fear." In _The Enviro
 
 Switzer. _Environmental Politics_. Pp. 113-138.
 
-Downs, Anthony. "Up and Down with Ecology: The Issue-Attention Cycle." ({{% resource_link "12bf5d3c-224f-4b3e-b911-0556d848ef3a" "PDF" %}})
+Downs, Anthony. "Up and Down with Ecology: The Issue-Attention Cycle." ([PDF](https://fbaum.unc.edu/teaching/articles/Downs_Public_Interest_1972.pdf))
 
 Recommended Reading:
 
@@ -614,7 +616,7 @@ Risk assessment is an important tool in environmental policymaking. We examine 
 
 Required Reading:
 
-{{% resource_link "950ef5da-1f83-4292-93a0-875e70d068cc" "Arsenic Rule Benefits Analysis: An SAB Review." %}}
+[Arsenic Rule Benefits Analysis: An SAB Review.](http://www.epa.gov/sab/pdf/ec01008.pdf)
 
 Putnam, Susan W., and Jonathan Baert Wiener. "Seeking Safe Drinking Water."
 
@@ -654,13 +656,13 @@ This class focuses on suburban "sprawl" and its impacts on landscape: developmen
 
 Required Reading:
 
-Sierra Club. {{% resource_link "5c4ce3bb-b014-4b66-b972-c82220be1543" "Sprawl: The Dark Side of the American Dream." %}}
+Sierra Club. [Sprawl: The Dark Side of the American Dream.](http://www.sierraclub.org/sprawl/report98/)
 
 Layzer. "Backlash: Wise Use, Property Rights and the Anti-Environmental Movement." Chap. 10 in _The Environmental Case_. Pp. 238-263.
 
 Supreme Court Cases:
 
-*   {{% resource_link "e87cf673-39e5-4852-b519-bc878b950691" "Babbit v. Sweethome (94-859, June 29, 1995.)" %}}
+*   [Babbit v. Sweethome (94-859, June 29, 1995.)](http://www.law.cornell.edu/supct/html/94-859.ZO.html)
 *   Palazzolo v. Rhode Island, et al. Certiorari to the Supreme Court of Rhode Island (No.99 -2047, June 28, 2001.) ({{% resource_link 408c80b1-8f1c-bacc-4633-88fd14362fc7 "PDF" %}})
 *   Tahoe-Sierra Preservation Council, Inc., et al., v. Tahoe Regional Planning Agency, et al. (No. 00-1167) ({{% resource_link 8ad00315-d2cc-92c0-250c-f42f0949e4ae "PDF" %}})
 
@@ -710,7 +712,7 @@ Paehlke. "Environmental Values for a Sustainable Society."
 
 Ophuls, and Boyan. "The American Political Economy."
 
-Harrison, Kathyrn. "{{% resource_link "706c83cf-0a4d-4208-a128-0ed93f9631f3" "Talking with the Donkey: Cooperative Approaches to Environmental Protection" %}}."
+Harrison, Kathyrn. "[Talking with the Donkey: Cooperative Approaches to Environmental Protection](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.490.8244&rep=rep1&type=pdf)."
 
 
 {{< tdclose >}}
@@ -778,7 +780,7 @@ Required Reading (42 pages):
 
 Switzer. _Environmental Politics_. Pp. 139-158.
 
-Congressional Research Service. {{% resource_link "795f5fc6-2465-4d5c-b002-d9bd45822b89" "IB90122 - Automobile and Light Truck Fuel Economy: The CAFE Standards." %}} \[Save and read the PDF report\]
+Congressional Research Service. [IB90122 - Automobile and Light Truck Fuel Economy: The CAFE Standards.](http://www.policyarchive.org/handle/10207/2827) \[Save and read the PDF report\]
 
 Layzer. "Oil versus the Arctic National Wildlife Refuge." Chap. 5 in _The Environmental Case_. Pp. 102-126.
 
