@@ -4,8 +4,6 @@ description: 'Protecting Wetlands: Expanding the Clean Water Act'
 file: /courses/17-32-environmental-politics-and-policy-spring-2003/b8f3c6f7ef52e86b9bb4e3e7bdfdcd7c_17_32_08protectingwetlands.pdf
 file_size: 458281
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
