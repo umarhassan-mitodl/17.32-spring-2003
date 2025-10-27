@@ -36,7 +36,7 @@ There will be a weekly recitation session of 1 hour, with several sections to ch
 - Layzer, Judith A. *The Environmental Case*. Washington D.C.: CQ Press, 2002. 
 - Switzer, Jacqueline Vaughn. *Environmental Politics*. Wadsworth Press, 2001.
 
-(2) Students are also **required** to follow environmental news by monitoring the GREENWIRE news service. GREENWIRE can be accessed from any computer with an MIT IP address at [http://www.greenwire.com](http://www.greenwire.com).
+(2) Students are also **required** to follow environmental news by monitoring the GREENWIRE news service. GREENWIRE can be accessed from any computer with an MIT IP address at {{% resource_link "4ff7a4c6-0a1d-4679-a7c3-c45063904320" "http://www.greenwire.com" %}}.
 
 **All the readings assignments relevant to a given week's class discussion must be read prior to that class.**
 
